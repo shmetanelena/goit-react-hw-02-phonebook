@@ -1,8 +1,8 @@
-.ContactList {
+.contactList {
   width: 480px;
 }
 
-.ContactList__item {
+.contactList_item {
   display: flex;
   align-items: center;
   justify-content: space-between;

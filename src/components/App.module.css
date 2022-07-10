@@ -1,0 +1,24 @@
+.section {
+  height: 100vh;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  background-color: #9b8f99;
+  color: rgb(12, 0, 10);
+}
+.box {
+  width: 600px;
+  padding: 0px 30px;
+  box-shadow: 10px 5px 10px 5px rgba(20, 1, 1, 0.89);
+}
+.box_title {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  margin: 20px auto;
+  width: 550px;
+  padding: 30px;
+  box-shadow: 10px 5px 10px 5px rgba(20, 1, 1, 0.89);
+}
