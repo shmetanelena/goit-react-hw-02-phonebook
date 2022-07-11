@@ -1,21 +1,10 @@
 .section {
   height: 100vh;
-  /* display: flex; */
-  /* flex-wrap: wrap;
-  justify-content: center;
-  flex-flow: column; */
   padding: 5px;
-
-  /* align-items: center;
-  align-items: center; */
   background-color: #9b8f99;
-  color: rgb(12, 0, 10);
+  color: rgb(249, 239, 247);
 }
-/* .box {
-  width: 600px;
-  padding: 0px 30px;
-  box-shadow: 10px 5px 10px 5px rgba(20, 1, 1, 0.89);
-} */
+
 .box {
   display: flex;
   flex-wrap: wrap;

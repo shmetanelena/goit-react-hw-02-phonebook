@@ -7,7 +7,6 @@
 
   width: 500px;
   padding: 5px;
-  /* box-shadow: 10px 5px 10px 5px rgba(20, 1, 1, 0.89); */
 }
 .input {
   margin-left: 10px;
@@ -17,4 +16,5 @@
   font-size: 15px;
   height: 30px;
   width: 200px;
+  background-color: rgb(249, 239, 247);
 }
